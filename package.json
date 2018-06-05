@@ -1,0 +1,15 @@
+{
+  "name": "js-graph-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robert-skarzycki/js-graph-experiment.git",
+  "author": "Robert Skarżycki <3417357+robert-skarzycki@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "vivagraphjs": "^0.10.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
